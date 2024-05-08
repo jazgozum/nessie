@@ -194,7 +194,7 @@ document.getElementById("twitter").addEventListener("click", function() {
 });
 
 document.getElementById("tg").addEventListener("click", function() {
-    window.open("#", "_blank");
+    window.open("https://t.me/+fbhsoEKOpTNiMGVh", "_blank");
 });
 
 document.getElementById("dex").addEventListener("click", function() {
