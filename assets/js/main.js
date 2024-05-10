@@ -189,7 +189,7 @@ document.getElementById("twitter").addEventListener("click", function() {
 });
 
 document.getElementById("tg").addEventListener("click", function() {
-    window.open("https://t.me/+fbhsoEKOpTNiMGVh", "_blank");
+    window.open("#", "_blank");
 });
 
 document.getElementById("dex").addEventListener("click", function() {
